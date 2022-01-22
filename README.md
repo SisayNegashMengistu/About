@@ -1,6 +1,6 @@
 ### Hi there here is I am working on👋
 
-<!--
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://twitter.com/@sisaysince1993
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...lecturer
--->
