@@ -1,4 +1,4 @@
-### Hi there here is I am working on👋
+### Hi there  Fact About Sisay N.👋
 
 
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything like programming ,software Engineering and requirement engineering concepts
 - 📫 How to reach me: ...https://twitter.com/@sisaysince1993
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... Software Engineering Graduate @Bahir Dar UNiversity,Bahir Dar Institue Of Technology,Poly
+- ⚡ Fun fact: ... Software Engineering Graduate @Bahir Dar UNiversity,Bahir Dar Institute Of Technology,Poly
