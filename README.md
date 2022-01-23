@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything like programming ,software Engineering and requirement engineering concepts
 - 📫 How to reach me: ...https://twitter.com/@sisaysince1993
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...lecturer
+- ⚡ Fun fact: ... Software Engineering Graduate @Bahir Dar UNiversity,Bahir Dar Institue Of Technology,Poly
