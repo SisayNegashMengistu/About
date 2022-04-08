@@ -1,4 +1,4 @@
-### Hi there  Fact About Sisay N.👋
+### Hi Fact About Sisay Negash.
 
 
 
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ... Anything like programming ,software Engineering and requirement engineering concepts
 - 📫 How to reach me: ...https://twitter.com/@sisaysince1993, https://www.instagram.com/agsisabdan
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... Software Engineering Graduate @Bahir Dar University,Bahir Dar Institute Of Technology,Poly
+- ⚡ Fact: ... Software Engineering Graduate @Bahir Dar University,Bahir Dar Institute Of Technology,Poly
