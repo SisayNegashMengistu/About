@@ -1,5 +1,6 @@
 ### Sisay Negash Mengistu
-- 🔭 I’m currently working on ... DDU, Dire Dawa,Ethiopia
-- ⚡ Fact: ... Software Engineering Graduate @Bahir Dar University,
-- ⚡ Bahir Dar Institute Of Technology,Poly
-- ⚡attending Msc Program at Bahir Dar Univeristy 
+- 🔭  Bsc In Software Engineering @ Bahir Dar University
+- ⚡ Work in Dire Dawa Univerity,Ethiopia.,
+- ⚡ Attending Msc in Software Engineering,@ Bahir Dar Univerity.
+- ⚡Skill, Web Development,Block chain Development,Backend ,frontend  and
+- ⚡ R programming and Python programming, Laravel framework.
